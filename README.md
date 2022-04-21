@@ -23,3 +23,10 @@ Further intergration can be achieved by including Stripe payment integration for
  - MongoDB database has been used to create a database consisting of collections such as foods, orders, cartitems etc. 
 
 
+
+## Web UI implementation 
+![Screenshot (1816)](https://user-images.githubusercontent.com/72380768/164499374-f9884a73-6eef-48b9-a906-afc3ca4d9e9a.png)
+
+### Foor ordering Cart 
+
+![Screenshot (1817)](https://user-images.githubusercontent.com/72380768/164499388-debcdce0-6106-4715-b21d-436b1621ce55.png)
