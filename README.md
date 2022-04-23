@@ -5,6 +5,9 @@ This application is built React Web UI, Springboot Web API and mongoDB database.
 
 Further intergration can be achieved by including Stripe payment integration for allowing customers to pay for their orders as well. 
 
+## Demo Video Link 
+
+https://youtu.be/YDBZzHELmdQ
 
 
 ## Web UI 
